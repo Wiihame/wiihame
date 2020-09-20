@@ -1,4 +1,4 @@
-### Hi there 👋
+###  🌱 I’m currently learning Rollup, maybe u can help me to learn it better
 
 <!--
 **Wiihame/wiihame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
